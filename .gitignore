@@ -1,0 +1,8 @@
+.env
+/vendor/
+/node_modules/
+/dist/
+/storage/*.key
+.DS_Store
+
+frontend/.env.local
